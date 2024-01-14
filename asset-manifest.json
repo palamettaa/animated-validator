@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/animated-validator/static/css/main.1319e149.css",
+    "main.js": "/animated-validator/static/js/main.94e429a1.js",
+    "static/css/72.31c4de37.chunk.css": "/animated-validator/static/css/72.31c4de37.chunk.css",
+    "static/js/72.c0cb8c07.chunk.js": "/animated-validator/static/js/72.c0cb8c07.chunk.js",
+    "static/js/787.c608df40.chunk.js": "/animated-validator/static/js/787.c608df40.chunk.js",
+    "static/js/161.2cb6d694.chunk.js": "/animated-validator/static/js/161.2cb6d694.chunk.js",
+    "index.html": "/animated-validator/index.html",
+    "main.1319e149.css.map": "/animated-validator/static/css/main.1319e149.css.map",
+    "main.94e429a1.js.map": "/animated-validator/static/js/main.94e429a1.js.map",
+    "72.31c4de37.chunk.css.map": "/animated-validator/static/css/72.31c4de37.chunk.css.map",
+    "72.c0cb8c07.chunk.js.map": "/animated-validator/static/js/72.c0cb8c07.chunk.js.map",
+    "787.c608df40.chunk.js.map": "/animated-validator/static/js/787.c608df40.chunk.js.map",
+    "161.2cb6d694.chunk.js.map": "/animated-validator/static/js/161.2cb6d694.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1319e149.css",
+    "static/js/main.94e429a1.js"
+  ]
+}
